@@ -2,7 +2,9 @@
 
 用 36 个日常选择，探索你更常采用的九种生活态度。一款无需注册、在浏览器内完成计分的中文趣味测试，支持手机和电脑。
 
-> 发布准备中，尚未验证在线访问。仓库计划命名为 `nine-ways-of-life`，启用 GitHub Pages 后的预期地址为 https://louistnt666.github.io/nine-ways-of-life/ 。
+> **[在线体验](https://louistnt666.github.io/)** · 已发布至 GitHub Pages。
+>
+> 仓库仍使用 `louistnt666.github.io`。计划改名为 `nine-ways-of-life`；改名后的新路径须重新确认 Pages 部署后启用，目前请使用上面的在线地址。
 
 ## 项目特点
 
